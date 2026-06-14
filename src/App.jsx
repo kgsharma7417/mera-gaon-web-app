@@ -13,7 +13,7 @@ import HealthPage from "./pages/HealthPage";
 import AgriculturePage from "./pages/AgriculturePage";
 import CulturePage from "./pages/CulturePage";
 
-// 🏥 इमेज image_2b1044.png के अनुसार नए हेल्थ सब-पेजेस के इम्पोर्ट्स यहाँ जोड़े गए हैं:
+// 🏥 नए हेल्थ सब-पेजेस के इम्पोर्ट्स (Casing Fixed for Vercel Linux Servers)
 import Maternalpage from "./pages/Maternalpage";
 import Medicinepage from "./pages/Medicinepage";
 import Mentalhealthpage from "./pages/Mentalhealthpage";

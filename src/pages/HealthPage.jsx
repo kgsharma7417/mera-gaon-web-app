@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { useLanguage } from "../context/LanguageContext";
-import TelemedicinePage from "./TelemedicinePage";
-import MedicinePage from "./MedicinePage";
-import MaternalPage from "./MaternalPage";
-import MentalHealthPage from "./MentalHealthPage";
+import TelemedicinePage from "./Telemedicinepage";
+import MedicinePage from "./Medicinepage";
+import MaternalPage from "./Maternalpage";
+import MentalHealthPage from "./Mentalhealthpage";
 
 const EMERGENCY = [
   {
