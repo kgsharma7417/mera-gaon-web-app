@@ -447,7 +447,6 @@ const s = {
   bannerIcon: { fontSize: "3rem", opacity: 0.25 },
   tabBar: {
     display: "flex",
-    gap: 0,
     background: "#fff",
     borderBottom: "1px solid var(--border)",
     padding: "8px 12px",
